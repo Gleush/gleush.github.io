@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Samuel Carpentier
 
-You can use the [editor on GitHub](https://github.com/Gleush/gleush.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Studies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm acutally IT student at [**Université de Lille**](https://www.univ-lille.fr) (Lille's University) from the north of France.
 
-### Markdown
+### IT Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Ostracraft](https://ostracraft.cf) *(Archived since 2021 - ToL : 8 years)*  
+  Minecraft game server | Discord server | Website (e-shop, linked database etc...)
+ 
+- Game Maze *(2022)*  
+  University project completely written in Java
 
-```markdown
-Syntax highlighted code block
+- Project-U *(2022)*  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gleush/gleush.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Meaning
+ToL : Time of life. How long the project has been active.

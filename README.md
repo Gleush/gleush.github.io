@@ -1,18 +1,46 @@
 ## Samuel Carpentier
 
-### Studies
+### Formation
 
-I'm acutally IT student at [**Université de Lille**](https://www.univ-lille.fr) (Lille's University) from the north of France.
+- **Master’s in Computer Science: Machine Learning** | 2023 – Present  
+  Lille University, Cité-scientifique Campus
+  
+- **Bachelor’s in Computer Science** | 2020 – 2023  
+  Lille University, Cité-scientifique Campus
+  
+- **Bachelor’s in Health Sciences** | 2017 – 2020  
+  Lille University, Health Campus  
+  Concurrent with a Pysiotherapy preparatory course
 
 ### IT Projects
 
-- [Ostracraft](https://ostracraft.cf) *(Archived since 2021 - ToL : 8 years)*  
-  Minecraft game server | Discord server | Website (e-shop, linked database etc...)
- 
-- Game Maze *(2022)*  
-  University project completely written in Java
+#### Personnal projects
+- **Cinematic | 2024**  
+  Minecraft server plugin
+  
+- **Fish Legends | 2024**  
+  Minecraft server plugin
+  
+- **Ostracraft 2013 - 2021**  
+  Minecraft game server | Website (e-shop, linked database etc...) | Discord server
 
-- Project-U *(2022)*  
+#### University projets
+- Tumors detection in medical imaging (Python) | 2024
 
-### Meaning
-ToL : Time of life. How long the project has been active.
+- Sentiment recognition from face sensors (Python) | 2024
+
+- Sentiment prediction from text (Python) | 2023
+
+- Sipology: Mobile App (Kotlin) | 2023
+
+- Data storage tree (Python) | 2023
+
+- Various small client/server communication projects (C) | 2022 - 2023
+
+- Labyrinth game (Java) | 2022
+
+- Sport team composer (Java) | 2022
+
+- Numerous practical works in Python, C, Javascript… | since 2020
+
+*Page updated : 16/06/2024*
